@@ -470,6 +470,11 @@ game:
     groupid: 1042739090
     owner: 寒冰永生
     notes: 三角洲行动群
+    
+    - name: 小蜜蜂MC-icpc交流群
+    groupid: 694606064
+    owner: 小蜜蜂
+    notes: MC交流群
 
 job:
   - name: acmer找实习&校招&社招 三群
